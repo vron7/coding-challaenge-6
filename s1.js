@@ -14,4 +14,5 @@ const answer = ul => {
     });
 
 };
+
 console.log(answer(ul));

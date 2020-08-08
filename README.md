@@ -1,2 +1,2 @@
-# coding-challaenge-6
+# coding-challenge-6
 ZTM challenge 6

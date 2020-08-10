@@ -9,7 +9,7 @@ const answer = ul => {
     for(item of ul){
         dict[item] ? dict[item]++ : dict[item] = 1
     }        
-    return Object.keys(dict).map((key,index) => {
+    return Object.keys(dict).map( key => {
         return dict[key] > 1 ? Array.from({length: dict[key]}, i => Number(key)) : Number(key)
     });
 

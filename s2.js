@@ -1,4 +1,5 @@
-// Write a javascript function that takes an array of numbers and a target number. The function should find // two different numbers in the array that, when added together, give the target number. 
+// Write a javascript function that takes an array of numbers and a target number.  
+// The function should find two different numbers in the array that, when added together, give the target number.   
 // For example: answer([1,2,3], 4)should return [1,3]
 
 
@@ -10,5 +11,5 @@ const answer = (arr, targetNum) => {
     }
     return [];
 };
-const ul = [2, 1, 2, 3];
-console.log(answer(ul, 4));
+
+console.log(answer([2, 1, 2, 3], 4));

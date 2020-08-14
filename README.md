@@ -1,2 +1,2 @@
 # coding-challenge-6
-ZTM challenge 6
+Solution for ZTM coding challenge 6.
